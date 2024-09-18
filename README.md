@@ -24,9 +24,3 @@ Click the button below to deploy this repository to Vercel.
 <div style="font-size: 1.5em; color: #ff0000;">
     <strong>Note:</strong> The root URL of your deployed project will serve as the playlist URL. For example, if your project is deployed at <code>https://your-project.vercel.app</code>, the playlist URL will be <code>https://your-project.vercel.app</code>.
 </div>
-
-## Join Our Discord
-
-Stay updated and join our community on Discord by clicking the button below.
-
-[![Join DISCORD](https://img.shields.io/badge/discord-black?logo=discord)](https://discord.gg/xxEcRuqZK2)
